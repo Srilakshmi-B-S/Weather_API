@@ -57,4 +57,18 @@ To use this project, you need to obtain an API key from OpenWeatherMap and updat
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request.
 
+## Screenshots
+![image](https://github.com/Srilakshmi-B-S/Weather_API/assets/141704657/b84462b4-ab85-444f-b442-3b6d0f99817f)
+
+![image](https://github.com/Srilakshmi-B-S/Weather_API/assets/141704657/576c2030-b27d-40c9-917a-cc53b2d4bbfe)
+
+![image](https://github.com/Srilakshmi-B-S/Weather_API/assets/141704657/0a56e592-8c30-48d3-8117-6dc982e51316)
+
+![image](https://github.com/Srilakshmi-B-S/Weather_API/assets/141704657/9a36cace-fb3f-40b4-bad5-8fcf09308466)
+
+
+
+
+
+
 
