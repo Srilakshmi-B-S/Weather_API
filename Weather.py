@@ -8,8 +8,9 @@ app = Flask(__name__)
 class Config:
     DEBUG = False
     TESTING = False
-    OPENWEATHERMAP_API_KEY = 'your_actual_api_key'  # Replace with your actual OpenWeatherMap API key
-
+     # Replace with your actual OpenWeatherMap API key
+    OPENWEATHERMAP_API_KEY = 'e61a290f7a1ff9a555debee8cb878239' 
+    
 # Load configuration from Config class
 app.config.from_object(Config)
 
